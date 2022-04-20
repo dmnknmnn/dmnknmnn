@@ -13,10 +13,10 @@
 
 ## :detective: Current research
 
-- <a href="https://msutoday.msu.edu/news/2019/dominik-neumann-fomo-is-real" target="_blank">Availability of social information online and its effects on consumer behavior</a> (eg, Fear of Missing Out)
-- <a href="https://www.iwm-tuebingen.de/www/de/forschung/projekte/projekt.html?name=Moral_Social_Media" target="_blank">Social and moral responsibilities of organizations and institutions in digital societies</a> (eg, in health communication and PR).
-- <a href="https://www.iwm-tuebingen.de/www/de/forschung/projekte/projekt.html?name=Automatisierte_Interaktion" target="_blank">Human-machine interactions in online customer service, particularly moral judgments of machines</a> (eg, chatbots).
-- Consumers' financial literacy in fast-moving digital economies (eg, cryptocurrencies and online trading platforms).
+- <a href="https://msutoday.msu.edu/news/2019/dominik-neumann-fomo-is-real" target="_blank">Availability of social information online and its effects on consumer behavior</a> (e.g., Fear of Missing Out).
+- <a href="https://www.iwm-tuebingen.de/www/de/forschung/projekte/projekt.html?name=Moral_Social_Media" target="_blank">Social and moral responsibilities of organizations and institutions in digital societies</a> (e.g., in health communication and PR).
+- <a href="https://www.iwm-tuebingen.de/www/de/forschung/projekte/projekt.html?name=Automatisierte_Interaktion" target="_blank">Human-machine interactions in online customer service, particularly moral judgments of machines</a> (e.g., chatbots).
+- Consumers' financial literacy in fast-moving digital economies (e.g., cryptocurrencies and online trading platforms).
 
 <!--
 **dmnknmnn/dmnknmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
